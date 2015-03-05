@@ -7,3 +7,13 @@ LastDate: 04 March 2015;
 
 */
 
+/* Es importante asignarle un valor por default a todas las imagenes que se incrusten en el documento html */
+img{
+	width: 100%;
+}
+
+/* Se le asigna estilos a la etiqueta del documento html que contenga el ID contenedor-principal */
+#contenedor-principal{
+	background-color: red;
+	width: 960px;
+}
